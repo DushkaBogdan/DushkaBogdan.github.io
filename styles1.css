@@ -1,0 +1,36 @@
+			body
+			{
+				background-image: url("img/bg.jpg");
+			}
+		
+			#maintable 
+			{
+				width: 100%;
+				max-width: 1024px;
+				margin: auto;
+				
+				background-image: url("img/ep_naturalwhite.png");
+				border-collapse:collapse;
+			}
+			td {
+				padding: 20px;
+				vertical-align: top;
+				border: solid 1 px blue;
+			}
+			
+			
+			#underground
+			{
+				text-align: center;
+			}
+			
+			#headshot
+			{
+				font-size: 30px;
+			}
+			
+			.bookImage
+			{
+				padding-right: 20px;
+				float: left;
+			}
